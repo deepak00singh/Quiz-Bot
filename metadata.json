@@ -1,0 +1,5 @@
+{
+  "name": "QuizGenius",
+  "description": "An AI-powered app for educators to generate multiple-choice and true/false quiz questions from a PDF chapter. The app provides a simple web form for teachers to review and export the generated quiz.",
+  "requestFramePermissions": []
+}
