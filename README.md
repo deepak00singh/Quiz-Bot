@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Quiz Bot — Interactive Quiz Creator
 
-# Run and deploy your AI Studio app
+**Live demo:** https://quizcreater.netlify.app/  
+**GitHub:** https://github.com/deepak00singh/Quiz-Bot
 
-This contains everything you need to run your app locally.
+**Short:** Interactive quiz creation and play app — add questions, run quizzes, see scoring. Good for ed-tech portfolio.
 
-View your app in AI Studio: https://ai.studio/apps/drive/14i736baTS6jU91_EZ1PJQY0O_q-gM6FH
+**Features**
+- Create and play quizzes
+- Dynamic scoring and result screen
+- Responsive UI
+- Deployed on Netlify
 
-## Run Locally
+**Tech**
+React, JavaScript, Netlify
 
-**Prerequisites:**  Node.js
+**Run locally**
+1. `git clone https://github.com/deepak00singh/Quiz-Bot.git`
+2. `cd Quiz-Bot`
+3. `npm install`
+4. `npm start`
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Contact**
+Deepak — B.Tech CSE (AI & ML)  
+GitHub: https://github.com/deepak00singh
